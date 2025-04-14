@@ -1,0 +1,23 @@
+
+===== 2025-04-13T19:35:37.242127200 =====
+Process: chatgpt              | PID: 2468   | CPU Minutes: 47,22 => TERMINATED
+Process: chrome               | PID: 11992  | CPU Minutes: 14,47 => OK
+Process: chrome               | PID: 4476   | CPU Minutes: 5,27 => OK
+Process: wd-tabnine           | PID: 5632   | CPU Minutes: 4,44 => OK
+Process: chrome               | PID: 6864   | CPU Minutes: 3,97 => OK
+Process: tabnine-deep-local   | PID: 18268  | CPU Minutes: 3,73 => OK
+Process: chatgpt              | PID: 9720   | CPU Minutes: 3,23 => OK
+Process: telegram             | PID: 1696   | CPU Minutes: 2,34 => OK
+Process: chrome               | PID: 8128   | CPU Minutes: 1,97 => OK
+Process: chrome               | PID: 6548   | CPU Minutes: 1,58 => OK
+Process: chrome               | PID: 4120   | CPU Minutes: 1,50 => OK
+Process: utweb                | PID: 15700  | CPU Minutes: 1,09 => OK
+Process: chrome               | PID: 16004  | CPU Minutes: 1,02 => OK
+Process: chrome               | PID: 16684  | CPU Minutes: 0,94 => OK
+Process: tabnine              | PID: 6800   | CPU Minutes: 0,64 => OK
+Process: tabnine              | PID: 16192  | CPU Minutes: 0,56 => OK
+Process: chatgpt              | PID: 9392   | CPU Minutes: 0,45 => OK
+Process: chrome               | PID: 2284   | CPU Minutes: 0,03 => OK
+Process: chrome               | PID: 4428   | CPU Minutes: 0,03 => OK
+Process: chrome               | PID: 8272   | CPU Minutes: 0,02 => OK
+====================================
